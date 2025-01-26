@@ -274,4 +274,19 @@ footer {
     .services h1, .projets h1 {
         font-size: 2rem;
     }
+
+    .projet1 {
+        background-image: url(portfolio1.png);
+        background-size: cover;
+    }
+    
+    .projet2 {
+        background-image: url(portfolio2.png);
+        background-size: cover;
+    }
+    
+    .projet3 {
+        background-image: url(portfolio3.png);
+        background-size: cover;
+    }
 }
